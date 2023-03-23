@@ -1,0 +1,28 @@
+{
+    "recommendations": [
+      "tabnine.tabnine-vscode",
+      "formulahendry.auto-close-tag",
+      "steoates.autoimport",
+      "formulahendry.auto-rename-tag",
+      "aaron-bond.better-comments",
+      "streetsidesoftware.code-spell-checker",
+      "kamikillerto.vscode-colorize",
+      "pranaygp.vscode-css-peek",
+      "firefox-devtools.vscode-firefox-debug",
+      "dbaeumer.vscode-eslint",
+      "donjayamanne.githistory",
+      "eamodio.gitlens",
+      "ecmel.vscode-html-css",
+      "wix.vscode-import-cost",
+      "zignd.html-css-class-completion",
+      "orta.vscode-jest",
+      "divyanshu013.vscode-material-darker",
+      "pkief.material-icon-theme",
+      "christian-kohler.npm-intellisense",
+      "christian-kohler.path-intellisense",
+      "esbenp.prettier-vscode",
+      "alefragnani.project-manager",
+      "syler.sass-indented",
+      "ritwickdey.liveserver"
+    ]
+}
